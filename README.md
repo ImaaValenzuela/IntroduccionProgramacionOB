@@ -4,7 +4,7 @@
 ## 🚀 Sobre mi
 Estudio Tecnicatura en Desarrollo de Aplicaciones en UNLaM y Desarrollo Full Stack en CoderHouse. 
 
-# Desarrollo Web - Codigo Facilito
+# Introducción a la Programación - OpenBootcamp
 En este repositorio voy a ir subiendo los desafios de "Introduccion a la Programacion" dictaminada por Open Bootcamp.
 
 ## 🔗 Redes
