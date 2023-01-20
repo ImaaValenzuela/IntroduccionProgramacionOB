@@ -18,7 +18,7 @@ En este repositorio me inicialice con la ruta de aprendizaje que brinda OpenBoot
 - Métodos de clase
 - Lenguajes: compilados e interpretados
 
-![Certificado](../Introduccion%20a%20la%20Programacion%20Open%20Bootcamp_page-0001.jpg)
+![Certificado](/Certificado.jpg)
 
 ## Feedback
 
