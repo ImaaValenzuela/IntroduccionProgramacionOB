@@ -1,8 +1,3 @@
-# Hola, Soy Imanol! 👋
-
-
-## 🚀 Sobre mi
-Estudio Tecnicatura en Desarrollo de Aplicaciones en UNLaM y Desarrollo Full Stack en CoderHouse. 
 
 # Introducción a la Programación - OpenBootcamp
 En este repositorio me inicialice con la ruta de aprendizaje que brinda OpenBootcamp. Se vieron:
